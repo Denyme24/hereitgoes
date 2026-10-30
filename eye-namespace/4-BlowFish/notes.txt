@@ -1,1 +1,4 @@
-(needs inputFile.txt in the same folder, Java 9+)
+Needs inputFile.txt in the same folder (included, contains "Hello world"). Java 9+. Prints the IV (changes every run) and writes outputFile.txt.
+
+Run:
+  javac BlowFish.java && java BlowFish

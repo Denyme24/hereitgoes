@@ -1,0 +1,4 @@
+No input. Hashes "abc".
+
+Run:
+  javac SHA1.java && java SHA1

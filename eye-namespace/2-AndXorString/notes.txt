@@ -1,0 +1,4 @@
+No input. Prints Hello World twice.
+
+Run:
+  javac AndXorString.java && java AndXorString

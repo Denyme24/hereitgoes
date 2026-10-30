@@ -1,4 +1,6 @@
-Input: information, 7
+Input:
+information
+7
 
 pumvythapvu
 information

@@ -1,1 +1,4 @@
-(input: p, q, then a message number smaller than n, e.g. 5 11 9; prints e d n, then cipher, then decrypted)
+Input: p, q, then a message number smaller than n. Prints e d n, then cipher, then decrypted.
+
+Run:
+  javac RSA.java && java RSA < input.txt

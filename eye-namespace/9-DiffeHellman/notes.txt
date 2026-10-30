@@ -1,1 +1,4 @@
-(both lines should print the same shared secret)
+No input. p=23, g=5, private keys 6 and 15. Both lines print the same shared secret.
+
+Run:
+  javac DiffeHellman.java && java DiffeHellman

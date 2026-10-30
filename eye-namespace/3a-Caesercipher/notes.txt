@@ -1,1 +1,4 @@
-(input: text, then key, e.g. information 7)
+Input: text, then key (one word, lowercase).
+
+Run:
+  javac Caesercipher.java && java Caesercipher < input.txt

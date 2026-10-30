@@ -1,3 +1,4 @@
-Input: information
+Input:
+information
 
 rmulinzgrlm
