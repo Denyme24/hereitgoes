@@ -1,5 +1,4 @@
-Input: inputFile.txt contains Hello world
-
+4. BlowFish (inputFile.txt contains Hello world)
 +h4VO7nYw3I=
 
 this is the IV, and it changes on every run. outputFile.txt is also written, with 12 encrypted bytes (hex 3b 2c 75 85 cf d3 15 0c 5b 9c 42 fd). it’s binary, so it looks like garbage in a text editor, which is normal.

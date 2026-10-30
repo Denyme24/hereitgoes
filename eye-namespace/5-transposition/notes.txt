@@ -1,4 +1,1 @@
-Input: keyword, then plaintext with no spaces.
-
-Run:
-  javac transposition.java && java transposition < input.txt
+(input: keyword, then plaintext with no spaces, e.g. AUTHOR ATTACKPOSTPONEDUNTILTWOAM)

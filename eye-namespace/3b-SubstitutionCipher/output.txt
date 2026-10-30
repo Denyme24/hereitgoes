@@ -1,4 +1,2 @@
-Input:
-information
-
+3b. SubstitutionCipher (input: information)
 rmulinzgrlm

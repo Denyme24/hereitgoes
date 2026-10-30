@@ -1,5 +1,4 @@
-Input: p=23, g=5, private keys 6 and 15
-
+9. DiffeHellman (p=23, g=5, private keys 6 and 15)
 2
 2
 

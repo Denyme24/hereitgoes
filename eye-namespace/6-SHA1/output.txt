@@ -1,3 +1,2 @@
-Input: input is abc
-
+6. SHA1 (input is abc)
 A9993E364706816ABA3E25717850C26C9CD0D89D

@@ -1,4 +1,1 @@
-Input: lowercase word, no spaces.
-
-Run:
-  javac SubstitutionCipher.java && java SubstitutionCipher < input.txt
+(input: lowercase word, no spaces)

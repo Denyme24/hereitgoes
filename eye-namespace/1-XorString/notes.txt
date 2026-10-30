@@ -1,4 +1,0 @@
-No input. Prints Hello World.
-
-Run:
-  javac XorString.java && java XorString

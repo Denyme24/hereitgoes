@@ -1,4 +1,0 @@
-No input. Hashes "abc".
-
-Run:
-  javac MD5.java && java MD5
