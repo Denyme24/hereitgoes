@@ -1,0 +1,1 @@
+(input: keyword, then plaintext with no spaces, e.g. AUTHOR ATTACKPOSTPONEDUNTILTWOAM)

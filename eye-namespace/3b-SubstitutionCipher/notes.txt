@@ -1,0 +1,1 @@
+(input: lowercase word, no spaces)
